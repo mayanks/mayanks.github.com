@@ -1,0 +1,11 @@
+--- 
+permalink: /free-to-fly
+layout: post
+title: Free to Fly
+published: true
+categories: 
+- random
+---
+<img src="/images/IMG_3430.jpg" alt="Free to Fly" />
+
+Close your eye, take a deep breath and imagine you are flying like that free bird. Entrepreneurship is not easy as they say it is. You need to find your own courage, flap your wings and take a plunge. Only then you will know you can fly
