@@ -8,4 +8,4 @@ categories: []
 ---
 Roma delivered a sweet baby girl yesterday and now we are proud parents of two little angels. 
 
-<img src="/images/14092010038.jpg" alt="We had a baby girl" />
+<p class="post-image"><img src="/images/14092010038.jpg" alt="We had a baby girl" /></p>

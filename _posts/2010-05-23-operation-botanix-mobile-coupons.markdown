@@ -7,9 +7,9 @@ categories:
 - idea
 - startup
 ---
-<img src="/images/b.gif" alt="Operation Botanix - Mobile Coupons" />
+<p class="post-image"><img src="/images/b.gif" alt="Operation Botanix - Mobile Coupons" /></p>
 
-Operation Botanix started of as a corollary to operation <a href="http://mayanks.posterous.com/asterix-mobile-gift-cards">Asterix</a>. Again the idea was quite simple. 
+Operation Botanix started of as a corollary to operation <a href="/asterix-mobile-gift-cards">Asterix</a>. Again the idea was quite simple. 
 
 <strong>Idea</strong><br />I remember in my childhood days, Pepsi used to come out with a full page newspaper advertisement with half a page of coupon. You were supposed to tear the coupon, take it to the shop and claim your free pepsi (7UP I think it was). Fast forward to today. I see an advertisement which promises me an inviting offer. But to claim the offer, instead of tearing the advertisement, I just have to send a SMS, say "EZEE 7UP" to a regular 10 digit mobile number (9243000111). And I get the coupon on my mobile phone as a SMS. <br /> <!--more--><br /><strong>Going deep down<br /></strong>Is generating more footfall the only reason why advertisers come up with discount coupons? One of the reason I hypothesized was through these advertisements, advertisers were essentially doing a market survey. Which publication generates more footfall? (Is Times of India more effective than Deccan Herald), Which are the localities having the highest demand for my product? (and hence focus more on that locality) etc.. This kind of analysis may happen once the offer period is complete and sales agents collect the coupons from individual shops.
 

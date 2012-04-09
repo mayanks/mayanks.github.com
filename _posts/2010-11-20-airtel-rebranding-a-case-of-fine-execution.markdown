@@ -6,7 +6,7 @@ published: true
 categories: []
 
 ---
-<img src="/images/airtel.jpg" alt="Airtel Rebranding - A case of fine execution" />
+<p class="post-image"><img src="/images/airtel.jpg" alt="Airtel Rebranding - A case of fine execution" /></p>
 
 Rebranding an existing brand for any reason is one of the toughest thing a business goes through. <a href="http://airtel.in">Airtel</a> recently <a href="http://epaper.livemint.com/Default.aspx?Id=796A39324B59574E586C483242745353684C7255654A6964536D366C48746974515036305557372F6574453D">spent obscene amount of money</a> to rebrand itself with a different logo and tune. There was a huge <a href="http://www.pcworld.in/news/new-airtel-logo-reactions-41222010">uproar in the blogger community</a> regarding this move(<a href="http://therodinhoods.com/forum/topics/what-kind-of-pansy-logo-is">here</a>). Various tweets were floating around about how AR Rehman has lost it, and how funny and stupid the logo looks. But all said and done there is a lesson of fine execution to be learnt from Airtel.
 

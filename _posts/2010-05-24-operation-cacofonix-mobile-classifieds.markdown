@@ -7,7 +7,7 @@ categories:
 - idea
 - startup
 ---
-<img src="/images/c.gif" alt="Operation Cacofonix - mobile classifieds" />
+<p class="post-image"><img src="/images/c.gif" alt="Operation Cacofonix - mobile classifieds" /></p>
 
 The third mobile phone based idea, code named Cacofonix centered around classifieds. What really appealed to me about using mobile phone for classifieds is that the size of the classifieds is invariably around 160 characters.<br /> <!--more--><br /><strong>The Market<br /></strong>A lot of companies like <a href="http://classifieds.sulekha.com/">sulekha</a>, <a href="http://www.click.in">click.in</a> and others have tried to take the classifieds market online. More recent to join and with deep pockets is <a href="http://www.quickr.com">Quickr</a>. They have met reasonable success, but have not really been able to create a dent in the existing print classifieds market. Even the hugely popular service like <a href="http://craiglist.com">craiglist</a> in the west has only received moderate adoption here. It is but obvious (atleast to me) that any serious player in classifieds space will have to leverage the print market and take it to mobile phones. 
 

@@ -6,6 +6,6 @@ published: true
 categories: []
 
 ---
-<img src="/images/ONZE.jpg" alt="ONZE in Times of India" />
+<p class="post-image"><img src="/images/ONZE.jpg" alt="ONZE in Times of India" /></p>
 
 Helping you find your way through sms - Onze featured in today&#39;s Times of India.

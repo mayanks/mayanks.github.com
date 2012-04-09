@@ -7,7 +7,7 @@ categories:
 - idea
 - startup
 ---
-<img src="/images/d.gif" alt="Operation Dogmatix - mQuote" />
+<p class="post-image"><img src="/images/d.gif" alt="Operation Dogmatix - mQuote" /></p>
 
 When you realize that you have hit on a very innovative method to retrieve real time information without the need of internet right on your mobile phone, your imagination runs wild. cricket scores, santa-banta jokes, train/bus status lookup come to your mind. One category that emerged in my mind out of this noise was stock quotes lookup. <br /> <!--more--><br />I am not a day trader. But in the last 10 years, investing in couple of stocks here and there, losing money and gaining a handsome in the bargain, I have learnt that stocks are an integral part of anyone's investment portfolio. And I am not talking because of their sky rocketing returns in some cases. I am talking about starting early, and collecting some heavy weight stocks with a long term horizon. Maybe for my daughter's wedding. why not? But this is not an investment advice forum is it? Sorry got digressed.
 

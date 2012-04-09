@@ -10,7 +10,7 @@ I am becoming a fan of <a href="http://zoomin.com">Zoomin</a>. Every other week 
 
 But what stuck me, was soon after completing my order I see this on their sidebar.
 
-<img src="/images/screenshot.png" alt="Mobile Loyalty is here to stay" />
+<p class="post-image"><img src="/images/screenshot.png" alt="Mobile Loyalty is here to stay" /></p>
 
 <br />Notice that they are now taking my mobile number and can link my purchase directly to my number. No more plastic card or 16 digit cryptic loyalty card number to remember. Isn't that awesome? Well yes, that is the reason we started <a href="http://revu.in">Revu</a>
 

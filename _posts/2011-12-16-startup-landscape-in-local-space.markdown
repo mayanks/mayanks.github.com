@@ -6,7 +6,7 @@ published: true
 categories: []
 
 ---
-<img src="/images/local_business_listing_perspec.png" alt="Startup landscape in local space" />
+<p class="post-image"><img src="/images/local_business_listing_perspec.png" alt="Startup landscape in local space" /></p>
 
 A couple of days ago a friend showed me <a href="http://pluggd.in/forum">pluggdin forums</a>. He suggested I start a discussion and being in the Local space for so long, decided to explore the Hyper-Local space. I started the <a href="http://www.pluggd.in/forum/discussion/28/what-is-the-best-hyper-local-strategy-for-india">discussion</a>, but then got too busy to come back to it. Yesterday came back to it and was quite surprised to see the number of discussions. Now Local and Hyper-Local are two different terms and I don&#39;t claim to know the difference between them, But I felt it was a good opportunity to see what is happening in the <b>Local space. </b>Rest of the discussion is <a href="http://www.pluggd.in/forum/discussion/comment/59#Comment_59">copied verbatim from there</a>. 
 

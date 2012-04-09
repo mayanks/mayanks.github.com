@@ -7,7 +7,7 @@ categories:
 - idea
 - startup
 ---
-<img src="/images/a.gif" alt="Asterix - Mobile Gift Cards" />
+<p class="post-image"><img src="/images/a.gif" alt="Asterix - Mobile Gift Cards" /></p>
 
 Even before I was introduced to the term 'code repository' or cvs in my college, I was using names of characters to represent the version of my assignment codes. They will start with Alice, Betty etc.. Somehow I find it quite amusing to name a project (in this case an idea) with a character of my liking. It gives life to the idea and you can relate to the attributes of the idea as its characters characteristics (wow !!).
 

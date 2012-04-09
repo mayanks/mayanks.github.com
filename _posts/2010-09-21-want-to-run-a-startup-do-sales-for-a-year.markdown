@@ -6,7 +6,7 @@ published: true
 categories: []
 
 ---
-<img src="/images/sales.jpg" alt="Want to run a Startup? Do Sales for a year" />
+<p class="post-image"><img src="/images/sales.jpg" alt="Want to run a Startup? Do Sales for a year" /></p>
 
 My younger brother says that everyone wanting to run a startup should do sales atleast for a year. Having done sales for most of his working life and running a 2 person Legal BPO for more than a year, I think he walk's that talk when he says that.
 
