@@ -7,9 +7,7 @@ You can [subscribe to this site's content][subscribe] in an RSS Reader, such as 
 
 [Follow Mayank on Twitter][twitter] if you'd like to get updates from your Twitter stream.
 
-Or, if you prefer email you can [sign up for email updates][email].
-
-[subscribe]: http://feeds.feedburner.com/mayanks
+[subscribe]: http://mayanks.me/feed.xml
 [reader]:    http://reader.google.com
 [reeder]:    http://reederapp.com/
 [twitter]:   http://twitter.com/mayanks

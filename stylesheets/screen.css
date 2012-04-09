@@ -106,6 +106,8 @@ section#main {
   font-size: 67.5%;
 }
 
+p.post-image {text-align: center}
+
 /* masthead --------------------- */
 
 section#masthead p {
@@ -123,12 +125,13 @@ section#masthead h1 {
 
 article img {
   max-width: 100%;
-  text-align: center;
+  box-shadow: 5px 5px 5px #555555;
 }
 
 section#masthead header img {
   float:   right;
   padding-top: 15px;
+  padding-right: 40px;
 }
 
 section#masthead header p {
