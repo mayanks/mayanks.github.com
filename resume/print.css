@@ -1,0 +1,14 @@
+body {
+  color: #000000;
+  font-family: sans-serif,arial;
+}
+#inner {
+  padding: 10px 40px;
+  margin: 20px auto;
+}
+p {
+  padding-right: 0;
+}
+a#pdf {
+  visibility:hidden;
+}
