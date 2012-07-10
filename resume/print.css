@@ -6,9 +6,6 @@ body {
   padding: 10px 40px;
   margin: 20px auto;
 }
-p {
-  padding-right: 0;
-}
 a#pdf {
   visibility:hidden;
 }
