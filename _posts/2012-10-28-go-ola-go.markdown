@@ -1,0 +1,26 @@
+--- 
+permalink: /go-olacabs-go/
+layout: post
+title: Go OlaCabs! Go
+published: true
+categories: [Startups]
+
+---
+So finally I booked a [Ola cab](http://www.olacabs.com/) in Delhi. Well technically I booked it on my mobile (mobile internet, they don't have a Windows app) while sitting in [Orcha](http://en.wikipedia.org/wiki/Orchha). A small town close to another small city Jhansi. The booking was for the next day 4:30 AM for my family to be picked up from railway station to airport. Last time the Taxi I picked up outside the station fleeced me by charging 500/-. This time I was going to be well prepared.
+
+Obviously the technology that OlaCabs has developed/used for a good customer experience is quite good. It just works and is quite seamless and is very transparent. There is a sense of simplicity when you see things just happen as and when they should after you book the cab. But what really impressed me was a little chat I had with the driver. It showed how the culture of customer satisfaction was being drilled down to the Taxi drivers who infact are the face of the company. And they are the one who give you an impression of the company.
+
+Here's a brief summary of the chat I had with the driver.
+
+* The work is good sir. Infact at times it is quite demanding. But that pays us well also, so not complaining.
+* Sir, there is only one rule in our company. **There are no rules**. We are supposed to do anything and everything to make sure that the customers are satisfied. If a customer is unhappy and we get reported, we get suspended for 15 days. That's a lot for us to lose. Even in our deepest sleep, a call from a customer just wakes us up completely.
+* Customers are quite happy. After they use Ola cabs once they keep on using it regularly and often recommend us to their friends.
+* I work the night shift. 8PM to 8AM. And there are customers all through the night. The company must be doing quite well.
+* They (Ola cabs) have chosen the drivers for the night shift quite carefully. They ensure that the driver is very familiar with the city and can reach even a remotest location with just the address. 
+* They have chosen to run only diesel cars. No CNG. Especially during the rains a CNG car breaks down quite often and customers are often stranded in a CNG Taxi. But not with our Taxi.
+* Our Taxi's are periodically called for inspection and they service the car quite frequently.
+* Bhavish sir is an amazing person. He must be just 27 or 28 and he is already running a business worth crores. How is that possible?
+
+While talking to the driver the [story of Zappos](http://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/1610660242) kept coming to my mind. I seriously think OlaCabs is setting the bar for customer satisfaction as high as Zappos did, and is definitely succeeding so far. Thrilled by this experience I immediately booked the Cab for my pick up at Bangalore airport as well. 
+
+In Delhi I paid Rs. 300/- instead of the 500/- I paid last time. And in Bangalore I paid Rs. 500/- instead of Rs. 880/- (actual bill value) because of an introductory offer they are running here. So am a super happy OlaCabs customer now :-)
