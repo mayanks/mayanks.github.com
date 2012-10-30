@@ -5,11 +5,5 @@ layout: default
 
 # About the Author
 
-My name is Joe Fiorini. I am a developer, husband and father from Cleveland, Ohio. I work for [LeanDog Software][LeanDog] where I build software for our customers using [Ruby on Rails][RoR]. I have contributed to a number of open source projects including [RSpec][] and [GitX][], and also have my own [Vim][] plugin manager called [Vimmer][]. 
+Hi, I am Mayank. I am an entrepreneur. My current startup is <a href="http://onze.in">ONZE</a> where we run an awesome <a href="http://latlong.in">local search and driving directions engine called Latlong</a> on various platform including SMS. I mostly use <a href="http://www.rubyonrails.org">Ruby on Rails</a> but not constrained by it.
 
-[LeanDog]:  http://www.leandog.com
-[RoR]:      http://www.rubyonrails.org
-[vim]:      http://www.vim.org
-[vimmer]:   http://www.github.com/densitypop/vimmer
-[rspec]:    http://www.relishapp.com/rspec
-[gitx]:     http://gitx.frim.nl/
