@@ -1,131 +1,56 @@
-<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
-<html>
-  <head>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <title>{% if page.title %}{{ page.title }} | {% endif %}Mayank Sharam: On Entreprenurship, Technology and Life</title>
+  <meta name="author" content="Mayank Sharma" />
+  <meta name="description" content="Writings, by Mayank Sharma. Mayank works at Amagi and enjoys coding in Rails." />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+  <link rel="alternate" type="application/atom+xml" title="Mayank Sharma Feed" href="http://mayanks.me/feed.xml" />
+  <link rel="stylesheet" href="/stylesheets/base.css" type="text/css" media="screen, projection" />
+  <link media="only screen and (max-device-width: 480px)" href="/stylesheets/mobile.css" type="text/css" rel="stylesheet" />
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" type="text/css">
+  <link rel="stylesheet" href="/webfonts/ss-social.css" type="text/css" />
+  <link rel="stylesheet" href="/stylesheets/pygments.css" type="text/css" />
 
-    <title>{% if page.title %}{{ page.title }} | {% endif %}Mayank Sharam: On Entreprenurship, Technology and Life</title>
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+</head>
 
-    <script type="text/javascript" src="http://use.typekit.com/jjw2jrj.js"></script>
-    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-
-    <link type="text/css" rel="stylesheet" href="/stylesheets/reset.css">
-    <link type="text/css" rel="stylesheet" href="/stylesheets/screen.css">
-    <link type="text/css" rel="stylesheet" href="/stylesheets/code.css">
-    <link rel="alternate" type="application/atom+xml"
-      title="Mayank Sharma Feed" href="http://mayanks.me/feed.xml" />
-
-    <link rel="apple-touch-icon" href="/images/iOS-114.png" />
-    <link rel="apple-touch-icon-precomposed" href="/images/iOS-57.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" media="screen and (resolution: 132dpi)" href="/images/iOS-72.png" />
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" media="screen and (resolution: 326dpi)" href="/images/iOS-114.png" />
-
-    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
-
-
-
-  </head>
-  <body class="{{ page.layout }}">
-
-    <section id="main">
-
-      <section id="masthead" class="group">
-        <header class="group">
-          <p><a href="/">Mayank<br>Sharma</a></p>
-          <h1>On Entreprenurship, Technology and Life</h1>
-          <img src="/images/mayank_small.jpg">
-        </header>
+<body>
+  <div class="header">
+    <div class="container">
+      <section class="name">
+        <a href="/">Mayank<b>Sharma</b></a>
       </section>
 
-      <section id="focus" class="group">
+      <ul class="menu">
+        <li><a href="/about">About</a></li>
+        <li><a href="/pictures">Pictures</a></li>
+        <li><a href="/projects">Projects</a></li>
+      </ul>
 
-        <section id="content" class="group">
-          {{ content }}
-        </section>
+      <ul class="social">
+        <li><a href="https://github.com/mayanks" class="ss-icon ss-social-circle">github</a></li>
+        <li><a href="https://twitter.com/mayanks" class="ss-icon ss-social-circle">twitter</a></li>
+        <li><a href="http://mayanks.me/feed.xml" class="ss-icon ss-social-circle">rss</a></li>
+      </ul>
+    </div>
+  </div>
 
-        <section id="sidebar">
+  
 
-          <section id="meta-col1" class="meta group">
-            <aside id="about">
-              <header>
-                <h3>About</h3>
-              </header>
-              <p>
-                This is a personal blog where I talk about generic stuff and events happening in my life. Some may be personal, some may be gyan that you may not agree with. I am not a highly opiniated person but nevertheless have my own sense of perception. 
-              </p> 
-            </aside>
+  <section class="container content">
+  {{ content }}
+  </section>
 
-            <aside>
-              <header>
-                <h3>Stay up to date</h3>
-              </header>
-              <nav>
-                <ul>
-                  <li class="icon rss"><a href="http://mayanks.me/feed.xml">RSS</a></li>
-                  <li class="icon twitter"><a href="http://twitter.com/mayanks">Twitter</a></li>
-                  <li class="icon linkedin"><a href="http://in.linkedin.com/in/mayanks ">Linkedin</a></li>
-                  <li class="icon"><a href="/subscribe">More</a></li>
-                </ul>
-              </nav>
-            </aside>
-
-            <aside id="ads">
-            <!--
-            <p>
-              <a href="/reviews/2011/01/13/review-authoring-ebooks-by-jeremy-mcanally/">
-                <img src="/images/authoring-ebooks-ad.png">
-              </a>
-              </p>
-              -->
-            </aside>
-
-          </section>
-
-          <section id="meta-col2" class="meta group">
-
-            <aside id="bio">
-              <header>
-                <h3>The Author</h3>
-              </header>
-              <p>
-              Hi, I am Mayank. I am an entrepreneur. My current startup is <a href="http://onze.in">ONZE</a> where we run an awesome <a href="http://latlong.in">local search and driving directions engine called Latlong</a> on various platform including SMS. I mostly use <a href="http://www.rubyonrails.org">Ruby on Rails</a> but not constrained by it. <a href="/bio">See more.</a>
-              </p>
-            </aside>
-
-            <aside>
-              <nav id="extra">
-                <ul>
-                  <li><a href="/colophon">Colophon</a></li>
-                  <li><a href="/contact">Contact</a></li>
-                </ul>
-              </nav>
-            </aside>
-
-          </section>
-
-        </section>
-
-      </section>
-
-      <section id="footer" class="group">
-        <footer class="group">
-          <nav id="site">
-            <ul>
-              <li><a href="/">Home</a></li>
-              <li><a href="/about">About</a></li>
-              <li><a href="/contact">Contact</a></li>
-              <li><a href="/subscribe">Subscribe</a></li>
-              <li><a href="/colophon">Colophon</a></li>
-            </ul>
-          </nav>
-          <p class="copyright">
-            &copy;2012 &ndash; Mayank Sharma
-          </p>
-        </footer>
-      </section>
-
-    </section>
+  <div class="footer">
+    <div class="container">
+      &copy; Mayank Sharma | Theme inspired by <a href="http://zachholman.com/">@holman</a>
+    </div>
+  </div>
 
     <script type="text/javascript">
 
@@ -141,5 +66,7 @@
 
     </script>
 
-  </body>
+
+</body>
+
 </html>

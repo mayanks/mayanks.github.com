@@ -1,0 +1,62 @@
+body {
+  padding: 0 20px;
+}
+
+.container {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.header {
+  text-align: center;
+  position: inherit;
+  height: inherit;
+  padding: 10px 0;
+  margin: 0 -20px;
+  width: inherit;
+}
+
+.name {
+  text-align: center;
+  float: none;
+  width: inherit;
+  margin-bottom: 10px;
+}
+
+.menu {
+  float: none;
+  display: inline;
+  width: inherit;
+  padding: 0;
+}
+  .menu li {
+    margin-left: 10px;
+  }
+
+.social {
+  display: none;
+}
+
+.hero {
+  height: 100px;
+  margin: 0 -20px;
+}
+
+h1 {
+  margin: 0 0 20px 0;
+  padding: 10px 0;
+}
+
+.listing span {
+  display: none;
+}
+
+.meta {
+  margin: 0;
+}
+  .meta .block {
+    padding: 0;
+  }
+  .meta .block div {
+    display: none;
+  }
