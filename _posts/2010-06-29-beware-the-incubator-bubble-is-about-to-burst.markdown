@@ -8,7 +8,9 @@ categories:
 - pluggd.in
 - startup advice
 ---
-<p class="post-image"><img src="/images/unregisterImage.jpg" alt="Beware the Incubator Bubble is about to Burst" /></p>
+ 
+<p></p>
+<img src="/images/unregisterImage.jpg" alt="Beware the Incubator Bubble is about to Burst" />
 
 The startup ecosystem in india is quite interestingly poised today. <a href="http://www.avc.com" target="_blank">Fred Wilson</a> has written a good post which explains quite succinctly how a <a href="http://www.avc.com/a_vc/2009/11/startup-ecosystems-take-time.html" target="_blank">startup ecosystem evolves</a> in a certain geography. You can roughly set the age of startup ecosystem in India to 10 years (starting from 2000 - IT revolution). During this first decade there have been quite a few successful startups created and exited. Two interesting things happened during this time. First, it created a lot of second time entrepreneurs (referred as STE's henceforth) who have learnt from success or failure of their earlier ventures and are now more seasoned to start a new venture, and second, it created a lot of HNI's either through successful exits or those high paying MBA jobs. This I would say has set us into second decade of the startup evolution. We now have seasoned entrepreneurs (STE's) and a lot of money to be invested in. Ofcourse a lot of VC's have also started focusing in India, but that is only natural thing to happen not dramatic (HNI's looking to invest in startup is dramatic).
 

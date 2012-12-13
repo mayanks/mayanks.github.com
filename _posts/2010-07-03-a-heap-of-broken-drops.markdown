@@ -13,4 +13,4 @@ Ever since I broke a thermometer when I was about 5 years old and gotÂ severelyÂ
 
 I don&#39;t know why I grew up, but I definitely do not want my daughter to grow up.
 
-<p class="post-image"><img src="/images/m1.jpg" alt="A heap of broken drops" /></p>
+<div class="image"><img src="/images/m1.jpg" alt="A heap of broken drops" /></div>

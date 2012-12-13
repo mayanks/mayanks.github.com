@@ -18,7 +18,7 @@ The dotcom bubble was preceded with a flurry of dotcom companies going IPO. Is t
 
 The pattern of risk taking over multiple rounds of funding resembles an inverted bell curve to me.
 
-<p class="post-image"><img src="/images/bell.png" alt="Bubbles, startup fundings and poor Flipkart" /></p>
+<div class="image"><img src="/images/bell.png" alt="Bubbles, startup fundings and poor Flipkart" /></div>
 
 At the beginning the founders taking the biggest leap of faith in starting their company following their vision and passion. They are the ones taking the biggest risks. Subsequent rounds of funding are taken at a somewhat reduced risk when a company starts to show a good growth and cash flow. Investors look at this growing company and genuinely want to help it grow further. The company then becomes a coffee table discussion amongst everyone and the founders the poster boys. Whoever invested in the company around this time possibly took the lowest risk. The company now is on a meteoric rise. Whoever invests now is taking the biggest risk on betting a sustained meteoric rise. Is it not fair then that the equity that they get for their investment is valued at an insane figure?
 

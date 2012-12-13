@@ -8,7 +8,8 @@ categories: []
 ---
 Startup ecosystem in India is almost growing like a hockey stick curve. The number of startup events happening here in Bangalore in a month and the number of incubator (companies) mushrooming is a clear indication of that. Though a lot of companies are starting, a lot of people are becoming entrepreneurs, a lot of people are willing to be angels, one aspect of this ecosystem which is not growing at the same rate is hiring. For a successful startup besides good entrepreneurs, execution and money, you also need a good set of guys who give shape to the product.
 
-<p class="post-image"><img src="/images/EnteringStartup.jpg" alt="Hiring in Startups" /></p>
+<p></p>
+<div class="image"><img src="/images/EnteringStartup.jpg" alt="Hiring in Startups" /></div>
 
 Almost every entrepreneur I have met in last couple of months have voiced this exact concern. Coincidence? Essentially with regards to Hiring in startups it is a buyers market. I was amazed to see in a recent startup camp I attended, almost everyone I bumped into was looking to hire. A lot of startups want to hire, but too little talent out there. Traditional HR firms and sites like monster and naukri fail miserably in connecting startups with the motivated guys. Some sites which I think help to such extent are <a href="http://www.linkedin.com/jobs">linkedin</a>, <a href="http://www.pluggd.in/jobs/">pluggdin</a> and <a href="http://jobs.hasgeek.in/">hasgeek</a> (there may be others). But all these sites are at best facilitators. We need a lot of motivated guys who are willing to let go of their lucrative salaries and take the so called plunge.
 

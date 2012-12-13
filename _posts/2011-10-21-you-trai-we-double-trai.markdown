@@ -8,7 +8,8 @@ categories: []
 ---
 Necessity is mother of all innovation they say. I agree, But innovating in a highly constrained manner is what really amazes me. And so after a much delay TRAI finally got around to forcing it's draconian NCPR guidelines on us. Bulk SMS industry almost got wiped out and all the other innovative companies who were using SMS as a primary channel of communication suffered a major blow. We (ONZE) were also in some sense on the receiving end of this enforcement. We (SMS Pull based services) paid the price for the nuisance created by UCC over SMS.
 
-<p class="post-image"><img src="/images/double-cross.jpg" alt="You TRAI we Double TRAI" /></p>
+<p></p>
+<div class="image"><img src="/images/double-cross.jpg" alt="You TRAI we Double TRAI" /></div>
 
 But if the recent developments are true, Bulk SMS will be back with a bang. With the Diwali around the corner, every retailer is pushing big time to somehow get their messages delivered (unsolicited) to the consumers. And so some of the SMS Providers have come up with a way to work around NCPR guidelines. Use an international SMS Gateway.
 

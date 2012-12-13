@@ -7,9 +7,13 @@ categories:
 - idea
 - startup
 ---
-<p class="post-image"><img src="/images/d.gif" alt="Operation Dogmatix - mQuote" /></p>
 
-When you realize that you have hit on a very innovative method to retrieve real time information without the need of internet right on your mobile phone, your imagination runs wild. cricket scores, santa-banta jokes, train/bus status lookup come to your mind. One category that emerged in my mind out of this noise was stock quotes lookup. <br /> <!--more--><br />I am not a day trader. But in the last 10 years, investing in couple of stocks here and there, losing money and gaining a handsome in the bargain, I have learnt that stocks are an integral part of anyone's investment portfolio. And I am not talking because of their sky rocketing returns in some cases. I am talking about starting early, and collecting some heavy weight stocks with a long term horizon. Maybe for my daughter's wedding. why not? But this is not an investment advice forum is it? Sorry got digressed.
+When you realize that you have hit on a very innovative method to retrieve real time information without the need of internet right on your mobile phone, your imagination runs wild. cricket scores, santa-banta jokes, train/bus status lookup come to your mind. One category that emerged in my mind out of this noise was stock quotes lookup. <br /> <!--more-->
+
+<p></p>
+<div class="image"><img src="/images/d.gif" alt="Operation Dogmatix - mQuote" /></div>
+
+I am not a day trader. But in the last 10 years, investing in couple of stocks here and there, losing money and gaining a handsome in the bargain, I have learnt that stocks are an integral part of anyone's investment portfolio. And I am not talking because of their sky rocketing returns in some cases. I am talking about starting early, and collecting some heavy weight stocks with a long term horizon. Maybe for my daughter's wedding. why not? But this is not an investment advice forum is it? Sorry got digressed.
 
 If you own couple of stocks, you do want to know their value the moment market opens and you are in your bus or car driving to office. You are maybe on an offsite team building exercise and can do without checking mails, but not your stock value. What do you do? Well that was the eureka moment if you call it, that set me off to create this mQuote application (<a href="http://mquote.heroku.com">http://mquote.heroku.com</a>). 
 

@@ -6,7 +6,8 @@ published: true
 categories: []
 
 ---
-<p class="post-image"><img src="http://farm4.static.flickr.com/3590/3390088768_39a1bdfce9.jpg" alt="" /></p>
+<p></p>
+<div class="image"><img src="http://farm4.static.flickr.com/3590/3390088768_39a1bdfce9.jpg" alt="" /></div>
 
 <a href="http://www.paulgraham.com/articles.html">Paul Grahm's</a> articles never cease to amaze me with their powerful insights. It's because they connect with me at a meta level where I am not able to verbalize my own thoughts. And when I read his essay, it's like that's what I was meaning to say !!
 

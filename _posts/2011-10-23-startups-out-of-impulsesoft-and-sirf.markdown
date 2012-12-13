@@ -10,7 +10,7 @@ Reading about the <a href="http://avlesh.wordpress.com/2011/10/22/the-burrp-mafi
 
 Implulsesoft did not become as famous as Burrp, but it had a decent exit when SiRF acquired it. SiRF also acquired another company in Bangalore called  Truespan and within 3 years was forced to close down it's Bangalore office(That actually is a very interesting story. maybe some other time). As a result of which most of us ventured out to start stuff we had always dreamed of. Here are those crazy guys.
 
-<p class="post-image"><img src="/images/impulsesoft.gif" alt="Startup's out of Impulsesoft and SiRF" /></p>
+<div class="image"><img src="/images/impulsesoft.gif" alt="Startup's out of Impulsesoft and SiRF" /></div>
 
 <a href="http://www.amagi.com/" target="_blank">Amagi</a> : Baskar, Vidhya and Kas. Original founders of Impulseoft left SiRF early on and started Amagi. An unheard of and a daring proposition of bringing local advertisements on your national cable channels. They have gone through two rounds of funding and are growing at an exponential pace.
 

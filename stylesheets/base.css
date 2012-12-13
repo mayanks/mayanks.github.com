@@ -240,3 +240,12 @@ h1 {
     font-size: 12px;
     padding: 20px 0;
   }
+  div.image {
+    margin: 10px 0;
+    box-shadow: 0 0 5px 5px #AAA;
+    display: inline-block;
+  }
+  p.post-image {
+    text-align: center
+    box-shadow: 0 0 5px 5px #AAA;
+  }

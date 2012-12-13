@@ -6,10 +6,11 @@ published: true
 categories: []
 
 ---
-<p class="post-image"><img src="/images/sales.jpg" alt="Want to run a Startup? Do Sales for a year" /></p>
 
 My younger brother says that everyone wanting to run a startup should do sales atleast for a year. Having done sales for most of his working life and running a 2 person Legal BPO for more than a year, I think he walk's that talk when he says that.
 
+<p></p>
+<div class="image"><img src="/images/sales.jpg" alt="Want to run a Startup? Do Sales for a year" /></div>
 
 Running a startup makes you do all kind of things, some of which you think you were ^<strong>not made to do</strong>^. Even when you are doing everything right, invariably your customers are going to be too slow for you. When your customers start dropping your calls and ignores your emails, you know the fun has just started. How many times have we received an unsolicited cold calls selling us something and we have shouted back at the person? Hey, they are just doing their job, everytime someone rejects them, it either makes them stronger or leave their job earlier. Both of which are good for him.
 

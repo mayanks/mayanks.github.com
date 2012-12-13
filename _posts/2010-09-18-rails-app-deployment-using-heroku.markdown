@@ -11,7 +11,7 @@ categories:
 ---
 My first public presentation at the first barcamp that I attended
 
-<strong><a href="http://www.slideshare.net/mayank78/deploying-rails-app" title="Deploying Rails App">Deploying Rails App</a></strong>
+##<a href="http://www.slideshare.net/mayank78/deploying-rails-app" title="Deploying Rails App">Deploying Rails App</a>
 
 <object height="355" width="425">
 <param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=bcb-100917132117-phpapp02&amp;stripped_title=deploying-rails-app&amp;userName=mayank78" />
