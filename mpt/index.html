@@ -49,7 +49,7 @@
               <td>{{row.description}}</td>
               <td>{{row.rate}}</td>
               <td>{{row.unit}}</td>
-              <td><input type="text" class="quantity" ng-model="row.quantity"></td>
+              <td><input type="number" class="quantity" ng-model="row.quantity"></td>
               <td><span class="cost" ng-show="row.quantity > 0">&#8377; {{row.rate * row.quantity}}</span></td>
             </tr>
           </tbody>
