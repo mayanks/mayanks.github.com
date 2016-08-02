@@ -1,0 +1,21 @@
+[
+ {"description":"Purple small Brinjal","rate":60,"unit":"KG"},
+ {"description":"Apple","rate":60,"unit":"KG"},
+ {"description":"Mint Leaves","rate":10,"unit":"Bunch"},
+ {"description":"Red Guava","rate":60,"unit":"KG"},
+ {"description":"Green Chillies","rate":60,"unit":"KG"},
+ {"description":"Pumpkin","rate":60,"unit":"KG"},
+ {"description":"Tomatoes","rate":60,"unit":"KG"},
+ {"description":"Potatoes","rate":60,"unit":"KG"},
+ {"description":"Onion","rate":60,"unit":"KG"},
+ {"description":"Babycorn","rate":5,"unit":"Piece"},
+ {"description":"Neelam Mangoes","rate":60,"unit":"KG"},
+ {"description":"Bell Pepper Green","rate":60,"unit":"KG"},
+ {"description":"Bell Pepper Red","rate":60,"unit":"KG"},
+ {"description":"Bitter Gourd","rate":60,"unit":"KG"},
+ {"description":"Beetroot","rate":60,"unit":"KG"},
+ {"description":"Coriander Leaves","rate":15,"unit":"Bunch"},
+ {"description":"Palak","rate":60,"unit":"Bunch"},
+ {"description":"Ridge Gourd","rate":60,"unit":"KG"},
+ {"description":"Bottle Gourd","rate":60,"unit":"KG"}
+]

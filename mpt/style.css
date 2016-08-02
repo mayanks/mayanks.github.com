@@ -1,0 +1,34 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
+
+body {
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+a {
+  color: #e81c4f;
+}
+
+.check-no {
+  color: #d43f3a;
+}
+
+.check-yes {
+  color: #5cb85c;
+}
+
+.cost {
+  font-weight: bold;
+}
+
+th.price {
+  width: 120px;
+}
+
+input.quantity {
+  width: 64px;
+}
+
+.footer {
+  border-top: 1px solid #cdcdcd;
+  padding-top: 20px;
+}
